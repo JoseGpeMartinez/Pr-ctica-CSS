@@ -1,4 +1,4 @@
-# Pr-ctica-CSS
+# Practica-CSS
 FrontEnd - Práctica de CSS
 Práctica CSS
 
